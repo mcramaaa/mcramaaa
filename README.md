@@ -1,4 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mch Rama</h1>
+<h3 align="center">A Passionate Full-stack Developer & UI/UX Designer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fast+Learner+🚀;Let’s+Build+Something+Amazing+💻&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🌱 Currently learning: **Laravel, Nest.js, Real-time tracking system, and scalable full-stack development.**
+- 🎯 My goal: **Become a Senior Full-stack Developer and eventually a CTO.**
+- 🧩 I enjoy solving problems, learning new technologies, and building high-impact digital solutions.
+- 🧑‍💻 I’m currently working on: **A web-based exam platform for multiple institutions (UINSA Math Olympiad, SMP 19 Jakarta, etc.)**
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** React.js, Next.js, Vue.js, Tailwind CSS, JavaScript, TypeScript  
+- **Backend:** Laravel, Node.js, Nest.js  
+- **Database:** MySQL, MongoDB  
+- **DevOps:** Ubuntu Server, Docker, Nginx  
+- **Design:** Figma, Adobe XD, Photoshop, Illustrator, After Effects  
+- **Others:** Inertia.js, Axios, REST API, Swagger
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=mchrama&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=mchrama&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=mchrama&show_icons=true" />
+  </picture>
+  <br />
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=mchrama&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=mchrama"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mchrama" />
+  </picture>
+</div>
+
+---
+
+### 🌐 Find Me Online
+
+- 🌍 Portfolio: [mcrama.vercel.app](https://mcrama.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/mochamad-ramadhani-644666202](https://www.linkedin.com/in/mochamad-ramadhani-644666202/)
+- 📸 Instagram: [@mch.rama__](https://www.instagram.com/mch.rama__/)
+
+---
+
+> “Stay curious, keep building, and never stop learning.” 🚀
 
 <!--
 **mcramaaa/mcramaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
