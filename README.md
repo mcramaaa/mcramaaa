@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mch Rama</h1>
-<h3 align="center">A Passionate Full-stack Developer & UI/UX Designer</h3>
+<h3 align="center">🚀 Freelance Web & Mobile Developer | UI/UX Designer | Fast Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fast+Learner+🚀;Let’s+Build+Something+Amazing+💻&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Freelance+Web+%26+Mobile+Developer;Let’s+Build+Something+Awesome+💻&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### ✨ About Me
 
-- 👨‍💻 Currently working as a **freelancer in web and mobile application development.**
-- 🌱 Continuously learning: **Laravel, Nest.js, real-time tracking systems, and scalable full-stack development.**
-- 🎯 Goal: **To become a Senior Full-stack Developer and eventually a CTO.**
-- 🧩 I love solving problems, exploring new tech, and building high-impact digital solutions.
-- 🧑‍💻 Recent projects: **Web-based exam platform for multiple institutions (UINSA Math Olympiad, SMP 19 Jakarta, etc.)**
+- 👨‍💻 I’m currently working as a **freelancer** in **web** and **mobile application** development.
+- 🔭 I build full-stack applications with **React, Next.js, Laravel, Node.js, React Native**, and more.
+- 🧑‍💻 Recent projects: **Web-based exam platform for multiple institutions**
+- 🎯 Long-term goal: Become a **Senior Full-stack Developer** and a future **CTO**.
+- 🧠 I love solving real-world problems with tech and design.
 
 ---
 
@@ -32,45 +32,30 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/mchrama">
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=mchrama&show_icons=true&theme=tokyonight"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=mchrama&show_icons=true&theme=default"
-        media="(prefers-color-scheme: light)"
-      />
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mchrama&show_icons=true" />
-    </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=mchrama&show_icons=true&theme=tokyonight" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mchrama&theme=tokyonight" width="420"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://mcrama.vercel.app/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://github.com/mchrama">
-    <picture>
-      <source 
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=mchrama&theme=tokyonight"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source 
-        srcset="https://github-readme-streak-stats.herokuapp.com/?user=mchrama"
-        media="(prefers-color-scheme: light)"
-      />
-      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mchrama" />
-    </picture>
+  <a href="https://www.linkedin.com/in/mochamad-ramadhani-644666202/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mch.rama__/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🌐 Find Me Online
+> 🧩 “Stay curious, keep building, and never stop learning.”
 
-- 🌍 Portfolio: [mcrama.vercel.app](https://mcrama.vercel.app/)
-- 💼 LinkedIn: [linkedin.com/in/mochamad-ramadhani-644666202](https://www.linkedin.com/in/mochamad-ramadhani-644666202/)
-- 📸 Instagram: [@mch.rama__](https://www.instagram.com/mch.rama__/)
-
----
-
-> “Stay curious, keep building, and never stop learning.” 🚀
 
 
 <!--
