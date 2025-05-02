@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mch Rama</h1>
+<h3 align="center">🚀 Web & Mobile Developer | UI/UX Designer | Fast Learner</h3>
 <p align="center">
   🚀 I'm a Freelance Web and Mobile App Developer<br>
   🔭 Currently working on various freelance projects<br>
@@ -8,9 +9,7 @@
 ---
 
 ### ✨ About Me
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fast+Learner+🚀;Let’s+Build+Something+Amazing+💻&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-</p>
+
 
 - 👨‍💻 I’m currently working as a **freelancer** in **web** and **mobile application** development.
 - 🔭 I build full-stack applications with **React, Next.js, Laravel, Node.js, React Native**, and more.
