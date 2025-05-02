@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mochamad Ramadhani</h1>
+<h1 align="center">Hi 👋, I'm Mch Rama</h1>
 <p align="center">
   🚀 I'm a passionate Freelance Web and Mobile App Developer<br>
   🔭 Currently working on various freelance projects<br>
