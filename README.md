@@ -1,82 +1,66 @@
-<h1 align="center">Hi 👋, I'm Mch Rama</h1>
-<h3 align="center">🚀 Freelance Web & Mobile Developer | UI/UX Designer | Fast Learner</h3>
-
+<h1 align="center">Hi 👋, I'm Mochamad Ramadhani</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Freelance+Web+%26+Mobile+Developer;Let’s+Build+Something+Awesome+💻&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  🚀 I'm a passionate Freelance Web and Mobile App Developer<br>
+  🔭 Currently working on various freelance projects<br>
+  🌐 Portfolio: <a href="https://mcrama.vercel.app/" target="_blank">mcrama.vercel.app</a><br>
 </p>
 
 ---
 
-### ✨ About Me
+### 🔗 Connect with me
 
-- 👨‍💻 I’m currently working as a **freelancer** in **web** and **mobile application** development.
-- 🔭 I build full-stack applications with **React, Next.js, Laravel, Node.js, React Native**, and more.
-- 🌱 I’m currently learning **Nest.js**, **real-time tracking features**, and improving backend scalability.
-- 🎯 Long-term goal: Become a **Senior Full-stack Developer** and a future **CTO**.
-- 🧠 I love solving real-world problems with tech and design.
+<p align="left">
+  <a href="https://www.linkedin.com/in/mochamad-ramadhani-644666202/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mch.rama__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
-
-  <!-- Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" />
-
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="Nginx" />
-
-  <!-- Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Illustrator" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" alt="After Effects" />
+<p align="left">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-2E2E2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-2E2E2E?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/REACT-2E2E2E?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NEXT.JS-2E2E2E?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/VUE.JS-2E2E2E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/TAILWINDCSS-2E2E2E?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/REACTNATIVE-2E2E2E?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NODE.JS-2E2E2E?style=for-the-badge&logo=node.js&logoColor=3C873A" />
+  <img src="https://img.shields.io/badge/NESTJS-2E2E2E?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/LARAVEL-2E2E2E?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/MYSQL-2E2E2E?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/MONGODB-2E2E2E?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+  <img src="https://img.shields.io/badge/DOCKER-2E2E2E?style=for-the-badge&logo=docker&logoColor=0db7ed" />
+  <img src="https://img.shields.io/badge/NGINX-2E2E2E?style=for-the-badge&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/FIGMA-2E2E2E?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/PHOTOSHOP-2E2E2E?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/ILLUSTRATOR-2E2E2E?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00" />
+  <img src="https://img.shields.io/badge/AFTER%20EFFECTS-2E2E2E?style=for-the-badge&logo=adobe-after-effects&logoColor=9999FF" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mchrama&show_icons=true&theme=tokyonight" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mchrama&theme=tokyonight" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mchrama&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mchrama&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchrama&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 💬 Motto
 
-<p align="center">
-  <a href="https://mcrama.vercel.app/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mochamad-ramadhani-644666202/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/mch.rama__/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+> *“Keep learning, embrace the challenge, and never give up.”*
 
 ---
 
-> 🧩 “Stay curious, keep building, and never stop learning.”
