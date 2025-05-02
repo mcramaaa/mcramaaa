@@ -7,6 +7,16 @@
 
 ---
 
+### ✨ About Me
+
+- 👨‍💻 I’m currently working as a **freelancer** in **web** and **mobile application** development.
+- 🔭 I build full-stack applications with **React, Next.js, Laravel, Node.js, React Native**, and more.
+- 🌱 I’m currently learning **Nest.js**, **real-time tracking features**, and improving backend scalability.
+- 🎯 Long-term goal: Become a **Senior Full-stack Developer** and a future **CTO**.
+- 🧠 I love solving real-world problems with tech and design.
+
+---
+
 ### 🔗 Connect with me
 
 <p align="left">
