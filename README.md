@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mch Rama</h1>
 <p align="center">
-  🚀 I'm a passionate Freelance Web and Mobile App Developer<br>
+  🚀 I'm a Freelance Web and Mobile App Developer<br>
   🔭 Currently working on various freelance projects<br>
   🌐 Portfolio: <a href="https://mcrama.vercel.app/" target="_blank">mcrama.vercel.app</a><br>
 </p>
